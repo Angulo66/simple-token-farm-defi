@@ -3,5 +3,5 @@
 ![Screen Shot 2021-03-14 at 8 58 21 PM](https://user-images.githubusercontent.com/31868336/111101977-404db880-8508-11eb-9d67-9da8f6538abd.png)
 
 # Diagram how the dapp stakes tokens
-https://i.stack.imgur.com/MaAqF.png
+![image](https://user-images.githubusercontent.com/31868336/111102118-8efb5280-8508-11eb-9ff2-ef51ad8db970.png)
 
